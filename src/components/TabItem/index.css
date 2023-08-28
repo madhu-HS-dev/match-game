@@ -1,0 +1,16 @@
+.button {
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 22px;
+  font-weight: 400;
+  margin-right: 20px;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
+
+.active {
+  color: #fec653;
+  border-bottom: solid 3px #fec653;
+}
